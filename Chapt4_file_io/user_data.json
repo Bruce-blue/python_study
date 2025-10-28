@@ -1,0 +1,11 @@
+{
+  "name": "Alice",
+  "age": 25,
+  "city": "Beijing",
+  "hobbies": [
+    "reading",
+    "coding",
+    "music"
+  ],
+  "is_student": false
+}

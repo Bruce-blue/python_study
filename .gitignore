@@ -1,1 +1,9 @@
-Chapt1_class/__pycache__/car.cpython-313.pyc
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
