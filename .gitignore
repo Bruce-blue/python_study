@@ -1,1 +1,15 @@
-Chapt1_class/__pycache__/car.cpython-313.pyc
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Generated data files from examples
+Chapt4_file_io/*.txt
+Chapt4_file_io/*.json
+Chapt4_file_io/*.csv
+Chapt4_file_io/*.bin
