@@ -7,3 +7,9 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# Generated data files from examples
+Chapt4_file_io/*.txt
+Chapt4_file_io/*.json
+Chapt4_file_io/*.csv
+Chapt4_file_io/*.bin
